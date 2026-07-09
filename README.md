@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 **blessedrishabh/blessedrishabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -81,4 +79,4 @@ When I am not coding, you can find me solving algorithmic challenges or represen
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
