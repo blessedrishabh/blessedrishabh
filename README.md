@@ -1,7 +1,3 @@
-
-**blessedrishabh/blessedrishabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # Hi there, I'm Rishabh Sharma! 👋 
 ### MCA (Data Science & Informatics) Student at NIT Patna | GenAI & Full-Stack Developer
 
